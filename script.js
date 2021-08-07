@@ -1,5 +1,5 @@
 function clau() {
-    alert('Well done son!!')
+    alert('Well done bby son!!')
 }
 
 const btn = document.querySelector('button')
